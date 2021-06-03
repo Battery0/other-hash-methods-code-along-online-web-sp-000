@@ -12,4 +12,4 @@ def get_the_min(groceries)
   groceries.values.flatten.min
 end
 
-p groceries.min
+p get_the_min(groceries)
